@@ -1,0 +1,3 @@
+Thêm Thẻ (Add Card): Truy cập http://localhost:3000/
+Thanh Toán với Thẻ (Pay with Card): Truy cập http://localhost:3000/pay
+Quản Lý Thẻ (Manage Cards): Truy cập http://localhost:3000/manage
